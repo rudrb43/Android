@@ -1,4 +1,6 @@
 public class Hello{
-  publick static void main(String[]args0)
-   System.out.print("Hello"); 
+  publick static void main(String[]args){
+   System.out.printf("Hello");
+   System.out.printf("Nice meet you");
+      }
    }
